@@ -30,52 +30,58 @@ This commands includes
 ### NETSTAT
 ## Output
 
-<img width="1392" height="687" alt="Screenshot 2025-11-11 082235" src="https://github.com/user-attachments/assets/d17c4556-83c3-415f-8b2c-5d46e7d9c8d9" />
+
+<img width="922" height="951" alt="Screenshot 2025-11-11 084449" src="https://github.com/user-attachments/assets/1ae38deb-7a2b-4674-9320-fd44356fd3ab" />
 
 ### IPCONFIG
 
 ## Output
 
-<img width="1065" height="681" alt="Screenshot 2025-11-11 082312" src="https://github.com/user-attachments/assets/981756a6-1900-4809-8966-89de73c4e4fc" />
+<img width="613" height="607" alt="Screenshot 2025-11-11 084515" src="https://github.com/user-attachments/assets/27c0b9b8-fc04-4a01-8f78-9c6277b856e1" />
 
 ### TRACERT
 
 ## Output
 
-<img width="946" height="400" alt="Screenshot 2025-11-11 082357" src="https://github.com/user-attachments/assets/d5b6c15d-ebe3-47ec-b208-4ade21bc65ce" />
+
+<img width="541" height="205" alt="Screenshot 2025-11-11 084545" src="https://github.com/user-attachments/assets/114c5466-35e0-41cf-a8cd-6813f37fa4ed" />
 
 ### NSLOOKUP
 
 ## Output
 
-<img width="902" height="611" alt="Screenshot 2025-11-11 082504" src="https://github.com/user-attachments/assets/8129da8d-d8c9-4472-9261-d2513f83530d" />
+
+<img width="697" height="626" alt="Screenshot 2025-11-11 084658" src="https://github.com/user-attachments/assets/7c46979d-2d68-414e-94fb-2cdd2bda003d" />
 
 ### GETMAC
 
 ## Output
 
-<img width="1197" height="201" alt="Screenshot 2025-11-11 082522" src="https://github.com/user-attachments/assets/9c0ed0d3-c3b8-4e78-be11-6b1d40e4e01f" />
+
+<img width="976" height="215" alt="Screenshot 2025-11-11 084725" src="https://github.com/user-attachments/assets/426f628d-256f-4a68-90e7-63eb58a94578" />
 
 ### HOSTNAME
 
 ## Output
 
-<img width="801" height="118" alt="Screenshot 2025-11-11 082536" src="https://github.com/user-attachments/assets/ff2fa721-0a0a-419f-b037-5fa6232265ab" />
+
+<img width="337" height="54" alt="Screenshot 2025-11-11 084736" src="https://github.com/user-attachments/assets/4911dab2-d3f9-44b0-8187-07a6a7058cb6" />
 
 ### NBSTAT
 
 ## Output
 
-<img width="1250" height="667" alt="Screenshot 2025-11-11 082550" src="https://github.com/user-attachments/assets/e05a9a6c-4a82-418c-b429-75c3c665f1ff" />
+
+<img width="1060" height="582" alt="Screenshot 2025-11-11 084804" src="https://github.com/user-attachments/assets/bf7ce352-ede1-475b-80ee-6d80c2e0fea6" />
 
 ### ARP
 
 ## Output
 
-<img width="1272" height="714" alt="Screenshot 2025-11-11 082609" src="https://github.com/user-attachments/assets/022d81c5-c130-41a0-8980-f8b4e06c1ab1" />
+
+<img width="1107" height="765" alt="Screenshot 2025-11-11 084823" src="https://github.com/user-attachments/assets/892ce806-3e32-4eb5-86bf-ab354c8f13d9" />
 
 ### SYSTEMINFO
 
 ## Output
-
-<img width="1394" height="689" alt="Screenshot 2025-11-11 082639" src="https://github.com/user-attachments/assets/f07522db-edbb-4b66-963b-cf809eff2c39" />
+<img width="803" height="966" alt="Screenshot 2025-11-11 084900" src="https://github.com/user-attachments/assets/4b46f31f-f646-488d-aba6-335eb86fa525" />
