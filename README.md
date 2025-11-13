@@ -85,3 +85,6 @@ This commands includes
 
 ## Output
 <img width="803" height="966" alt="Screenshot 2025-11-11 084900" src="https://github.com/user-attachments/assets/4b46f31f-f646-488d-aba6-335eb86fa525" />
+
+## RESULT :
+Thus execution of network commands is performed
